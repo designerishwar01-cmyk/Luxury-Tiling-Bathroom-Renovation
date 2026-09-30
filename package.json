@@ -1,0 +1,1 @@
+{"name":"luxury-tiling-bathroom","version":"1.0.0","private":true,"scripts":{"build":"node --check dist/app.js && node --check dist/demo-config.js"}}
